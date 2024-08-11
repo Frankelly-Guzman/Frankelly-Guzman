@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frankelly Guzman</h1>
-<h3 align="center">A passionate Computer Science student at the College of Central Florida</h3>
+<h3 align="center">A passionate Computer Science student at the University of Central Florida</h3>
 <img width="400" alt="Coding" align="right" src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e476oacpxiv2pysqdgwguatjgbjzwt5in7qasetinrn&rid=giphy.gif&ct=s">
 
 <p align="left"> <a href="https://twitter.com/frankellyrguz" target="blank"><img src="https://img.shields.io/twitter/follow/frankellyrguz?logo=twitter&style=for-the-badge" alt="frankellyrguz" /></a> </p>
